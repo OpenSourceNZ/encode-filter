@@ -10,7 +10,7 @@
 
     <groupId>nz.net.osnz.common</groupId>
     <artifactId>encode-filter</artifactId>
-    <version>3.1</version>
+    <version>3.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Open Source New Zealand : encode-filter</name>
@@ -43,7 +43,7 @@
         <url>https://github.com/OpenSourceNZ/encode-filter</url>
         <connection>scm:git:git@github.com:OpenSourceNZ/encode-filter.git</connection>
         <developerConnection>scm:git:git@github.com:OpenSourceNZ/encode-filter.git</developerConnection>
-        <tag>encode-filter-3.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
